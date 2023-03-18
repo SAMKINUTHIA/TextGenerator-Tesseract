@@ -1,0 +1,3 @@
+ocr.jpeg
+tesseract.jpg
+fhs.png
