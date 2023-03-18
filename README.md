@@ -13,12 +13,16 @@ The following dependencies are required to run this script
 * docx library
 - On VsCode Terminal
     Install Pillow, an image processing library in python, using this command
+
         `pip install pillow`
     Install tesserct-ocr using this command
+
         `sudo apt install tesseract-ocr`
     Install pytesseract, Python wrapper for tesserct-ocr using this command
+
         `pip install pytesseract`
     Install docx, a library that allows creating and updating MS Word (.docx) files.
+    
         `pip install python-docx`
 
 ## Usage
