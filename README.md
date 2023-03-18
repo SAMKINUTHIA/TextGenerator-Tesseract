@@ -12,6 +12,7 @@ The following dependencies are required to run this script
 * Tesseract OCR engine
 * docx library
 - On VsCode Terminal
+
     Install Pillow, an image processing library in python, using this command
 
         `pip install pillow`
