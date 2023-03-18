@@ -30,6 +30,7 @@ The following dependencies are required to run this script
 - Place your image files in the imagetotxt folder.
 - List the names of the image files you want to convert in the ordered.txt file, this is in the order you want the images to be processed.
 - Run the script using the following command:
+
         `/bin/python3 /your_directory/TextGenerator-Tesseract/image_example.py`
 - The output will be saved in output.txt and output.docx files.
 
